@@ -52,3 +52,5 @@ useEffect(() => {
 ```
 
 - `useEffect()` will take two parameters. Its hook for updating values based on some preconditions. Here it will update `win` based on betValue and amount. Whenever user update those value `win` value will also update.
+
+## 🌳 `2a178a2289cac4348eb59e1a981d567787b581c3`
